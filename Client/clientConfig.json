@@ -1,0 +1,16 @@
+{
+    "server": {
+        "address": "127.0.0.1",
+        "port": "8000"
+    },
+    "client":{
+        "address": "127.0.0.1",
+        "port": 9000
+    },
+    "encryption": {
+
+    },
+    "db": {
+
+    }
+}
